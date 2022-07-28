@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<payment>
+    <bank>Pichincha</bank>
+    <cardType>Credito</cardType>
+    <amount>50</amount>
+    <client>Pierina</client>
+    <status>N</status>
+</payment>
